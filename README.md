@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **projects react**
 
-- 🌱 I’m soon learning **React Native**
+- 🌱 I’m soon learning **React Native** , **Readux toolkit**
 
 - 💬 Ask me about **react**
 
