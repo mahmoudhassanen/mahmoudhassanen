@@ -9,6 +9,14 @@
 
 - 📫 How to reach me **https://www.linkedin.com/in/mahmoud-hassanen-03180820a/**
 
+<h1>  Mystats:  </h1>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahmoudhassanen&show_icons=true&locale=en&layout=compact" alt="mahmoudhassanen" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahmoudhassanen&" alt="mahmoudhassanen" /></p>
+
+
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mahmoudhassanen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahmoudhassanen" height="30" width="40" /></a>
