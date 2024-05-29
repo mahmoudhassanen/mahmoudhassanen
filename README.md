@@ -1,9 +1,13 @@
 <h1 align="center">Hi 👋, I'm mahmoudhassanen</h1>
 <h3 align="center">A Passionate frontend developer from cairo</h3>
 
-- 🔭 I’m currently working on **projects react**
+- 🔭 I’m currently working on **React Project**
+  
+- 🔭 I’m looking for job as a frontend developer | React js.
+  
+- 🔭 I am always open to discussing new projects | Freelancer 
 
-- 🌱 I’m soon learning **React Native** , **Redux toolkit**
+- 🌱 I’m soon learning **React Native** , 
 
 - 💬 Ask me about **react**
 
